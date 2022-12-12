@@ -4,7 +4,11 @@ Problems based on Algorithms
 ## 1. [Searching Algorithms](https://github.com/nishant7372/Algorithms/tree/main/searchTechniques)
 
 ### &nbsp; a. [Linear Search](https://github.com/nishant7372/Algorithms/tree/main/searchTechniques/linearSearch)
+#### &nbsp; &nbsp; i. Iterative
+#### &nbsp; &nbsp; ii. Recursive
 ### &nbsp; b. [Binary Search](https://github.com/nishant7372/Algorithms/tree/main/searchTechniques/binarySearch)
+#### &nbsp; &nbsp; i. Iterative
+#### &nbsp; &nbsp; ii. Recursive
 
 ## 2. [Sorting Algoithms](https://github.com/nishant7372/Algorithms/tree/main/sortingTechniques)
 
