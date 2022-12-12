@@ -27,5 +27,5 @@ Problems based on Algorithms
 #### &nbsp; &nbsp; i. Recursive (First Element as Pivot)
 #### &nbsp; &nbsp; ii. Recursive (Last Element as Pivot)
 
-### &nbsp; f. [Merge Sort]((https://github.com/nishant7372/Algorithms/tree/main/sortingTechniques/mergeSort)
+### &nbsp; f. [Merge Sort](https://github.com/nishant7372/Algorithms/tree/main/sortingTechniques/mergeSort)
 #### &nbsp; &nbsp; i. Recursive 
